@@ -4,6 +4,8 @@
 Este proyecto analiza los datos sobre la lluvia caída en Barcelona en los últimos 100 años. El **objetivo principal** es evaluar si existen cambios en el comportamiento de las precipitaciones en las últimas dos décadas respecto a años anteriores.
 
 Los datos proceden de la estación meteorológica del **Observatori Fabra** situado en la montaña del Tibidabo.
+
+
 ![Vista Barcelona desde Observatori Fabra](observatori.jpg)
 ## Plan de proyecto:
 
@@ -20,8 +22,3 @@ En este caso se usa el algoritmo **KMeans** a nivel mensual, para detectar simil
 Se aplican dos algoritmos distintos: **regresión lineal múltiple y Random Forest** para evaluar la capacidad de otras magnitudes, principalmente temperatura, presión y humedad relativa,  para explicar y predecir las precipitaciones.
 4. **Conclusiones**
 Resumen con los datos y resultados obtenidos.
-
-
-```python
-
-```
